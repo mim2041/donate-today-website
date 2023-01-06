@@ -14,6 +14,7 @@
 .header-titles{
     color: white;
     text-align: center;
+    width: 1000px;
 }
 .header-title{
     font-family: 'Inter';
